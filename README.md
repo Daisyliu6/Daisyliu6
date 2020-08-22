@@ -4,5 +4,5 @@
 #### 💬 Ask me about anything
 #### 📫 How to reach me: https://www.linkedin.com/in/daisy-l-365396160/
 #### ⚡ Fun fact: Like taking photos of sunset silhouette 😊
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif){:height="50%" width="50%"}
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
 
