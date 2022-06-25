@@ -6,5 +6,6 @@
 ####  🍷   LinkedIn : https://www.linkedin.com/in/daisyliu6/
 ####  🔭  Hackrank: https://www.hackerrank.com/Daisyfighting
 ####  ⚡  Fun fact: Like taking photos of sunset silhouette 😊
+![github](https://user-images.githubusercontent.com/41984640/175775853-811687cf-cab7-4348-8690-232c06ebae10.jpg)
 
 
